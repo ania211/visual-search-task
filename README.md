@@ -1,5 +1,8 @@
 # visual-search-task
 Visual search task experiment for cognitive science
+Project developed in PsychoPy and Python 3.9
+
+
 Zadanie Visual Search Task - specyfikacja 
 
  
@@ -21,110 +24,6 @@ W danej próbie (z celem) na ekranie w losowych miejscach w matrycy wyświetlaj�
 Przykładowy wygląd ekranu z punktem fiksacji oraz próby z targetem: 
 
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-+ 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-A 
-
-A 
-
-A 
-
-Pole tekstowe 
-
-A 
-
-Pole tekstoweA 
-
- 
-
-A 
-
- 
-
-A 
-
- 
-
-A 
-
-A 
-
- 
-
- 
-
-A 
-
-A 
-
- 
-
-A 
-
-Pole tekstowe 
-
- 
-
- 
-
-A 
 
  
 
