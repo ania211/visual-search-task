@@ -1,5 +1,7 @@
 # visual-search-task
 Visual search task experiment for cognitive science
+
+
 Project developed in PsychoPy and Python 3.9
 
 
