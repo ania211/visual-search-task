@@ -1,4 +1,7 @@
-Przypominamy krótko polecenie do zadania. 
+Za chwilę rozpocznie się sesja treningowa, która służy zapoznaniu się z zadaniem. 
+Na początku wyświetli się punkt fiksacji, na którym należy skupić wzrok. 
+Następnie wyświetli się macierz z literami, którą należy przeszukać, a po zauważeniu targetu wcisnąć klawisz spacji. 
+Przypominamy, że target nie zawsze jest obecny. W takim przypadku nie należy reagować i trzeba poczekać na wyświetlenie kolejnego ekranu.
+Aby przejść do sesji treningowej, wciśnij klawisz SPACJI.
 
-Przyciśnij SPACJĘ by rozpocząć.
 
