@@ -4,4 +4,4 @@ Będzie ona w otoczeniu innych podobnych bodźców - dystraktorów.
 W niektórych próbach targetu nie będzie. Należy wtedy poczekać na wyświetlenie kolejnego ekranu bez reagowania spacją.
 Targetem jest litera A, nieodwrócona, w kolorze czerwonym, większa o jeden punkt od pozostałych. 
 Zadaniem jest jak najszybsze zareagowanie w przypadku wystąpienia targetu.
-Jeśli nie masz pytań do zadania, naciśnij spację by przejść dalej.
+Jeśli nie masz pytań do zadania, naciśnij SPACJĘ by przejść dalej.
