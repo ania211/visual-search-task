@@ -128,7 +128,7 @@ def main():
     event.Mouse(visible=False, newPos=None, win=win)  # Make mouse invisible
     FRAME_RATE=get_frame_rate(win)
 
-    # check if a detected frame rate is consistent with a frame rate for witch experiment was designed
+    # check if a detected frame rate is consistent with a frame rate for which experiment was designed
     # important only if milisecond precision design is used
     if FRAME_RATE != conf['FRAME_RATE']:
         dlg=gui.Dlg(title="Critical error")
