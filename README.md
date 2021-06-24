@@ -35,7 +35,7 @@ Szczegóły dotyczące bodźców i ich prezentacji:
 
 Opis targetu oraz dystraktorów: 
 
-Bodziec cel – litera A w kolorze czerwonym, nieodwrócona, czcionka większa o jeden punkt: 
+Bodziec cel – litera A w kolorze czerwonym, nieodwrócona: 
 
 Prezentacja w losowym polu na matrycy  
 
