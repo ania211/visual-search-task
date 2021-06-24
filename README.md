@@ -57,7 +57,7 @@ Kolory:
 
 - tło – białe 
 
-- target – czerwona litera A, czcionka większa o jeden punkt 
+- target – czerwona litera A
 
 - dystraktory – pomarańczowe A (odwrócone lub nie), czerwone A odwrócone 
 
