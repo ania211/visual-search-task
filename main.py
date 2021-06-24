@@ -201,7 +201,7 @@ def main():
     logging.flush()
     show_info(win, join('.', 'messages', 'end.txt'))
     win.close()
-
+    core.quit
 
 def create_matrix(win, conf):
     """
